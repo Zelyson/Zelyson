@@ -1,20 +1,21 @@
 # My space here on Github
 
 ## `whoami` - Thats me!
-- **Name:** *Sebastian H* - also known as Zelyson 
+- **Name:** *Sebastian* - also known as Zelyson 
 - **Age:** 18y
 - **Langages:** English, German
 
-Nothing more to say here ;)
+Nothing more to say ;)
 
 ## `man Zelyson | grep interests` - Interests
 - Android Development
+- C/C++
 - C#
 - Unity
 - Offensive security - CTF's
 
 ## `ps` - What I do on Github
-I intend on uploading some small projects I am working on. Things such as a like a custom ping program or an image generator using a function to create some crazy art should set the tone on what to expect. These projects are just for fun and I do them to learn more about programming, computers and anything that comes up in the way of creating them.
+I intend on uploading some small projects I am working on. Things such as a custom ping program or an image generator using a function to create some crazy art should set the tone on what to expect. These projects are just for fun so please dont expect well maintained repos and quick bugfixes (although they will probably happen, maybe ¯\\_(ツ)_/¯ ).
 
 ## `exit` - Finaly words
 I hope you have fun while exploring this small corner of the internet and maybe get inspired to work on your own projects in the future.
