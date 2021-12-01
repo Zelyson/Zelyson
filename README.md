@@ -7,7 +7,7 @@
 
 Nothing more to say ;)
 
-## `man Zelyson | grep interests` - Interests
+## `cat Zelyson.txt | grep interests`
 - Android Development
 - C/C++
 - C#
