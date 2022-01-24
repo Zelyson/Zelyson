@@ -2,7 +2,7 @@
 
 ## `whoami` - Thats me!
 - **Name:** *Sebastian* - also known as Zelyson 
-- **Age:** 18y
+- **Age:** 19y
 - **Langages:** English, German
 
 Nothing more to say ;)
@@ -20,7 +20,7 @@ I intend on uploading some small projects I am working on. Things such as a cust
 ## `exit` - Finaly words
 I hope you have fun while exploring this small corner of the internet and maybe get inspired to work on your own projects in the future.
 
-*- 26.08.2021*
+*- 24.01.2022*
 
 <!---
 Zelyson/Zelyson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
